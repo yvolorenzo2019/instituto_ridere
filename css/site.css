@@ -43,9 +43,16 @@
   color: white;
 }
 
+.iframe {
+  width: 800px;
+  height: 300px;
+}
+
 /* Responsiveness */
-@media (min-width: 768px) {
+@media (max-width: 500px) {
   .topnav { display : none };
+
+  
 }
 
 @media screen and (max-width: 768px) {
@@ -112,6 +119,14 @@
     padding: 15px;
     border-radius: 4px;
   }
+
+ #redes{
+   width: 90px;
+   height: 70px;
+ }
+ .redes{
+  left: 20%;
+ }
   
   #myBtn:hover {
     background-color: #555;
