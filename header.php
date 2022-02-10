@@ -8,6 +8,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="css/site.css">
 
+<button onclick="topFunction()" id="myBtn" title="Voltar ao topo">Topo</button>
+
 <div class="topnav">
   <a href="index.php" class="active"><img src="img/coroa.png" style="width: 40px;"></a>
   <!-- Navigation links (hidden by default) -->
@@ -20,7 +22,6 @@
     <a href="materias.php">MATÉRIAS</a>
     <a href="coworking.php">CO-WORKING</a>
     <a href="contato.php">CONTATO</a>
-    <a href="qrcode.php">QRCODE</a>
   </div>
   <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -72,8 +73,7 @@
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='depoimentos.php';">Depoimentos</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='materias.php';">Matérias</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='coworking.php';">Co-working</button></div> | 
-  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Contato</button></div> | 
-  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='qr_code.php';">QR Code</button></div>
+  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Contato</button></div> 
 </div>
 
  <div class="container">

@@ -13,15 +13,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body style="background-image: url(img/background.png);background-repeat: no-repeat; background-size: 100% 100%;">
-    
-<button onclick="topFunction()" id="myBtn" title="Voltar ao topo">Topo</button>
-
-<button onclick="topFunction()" id="myBtn" title="Voltar ao topo">Topo</button>
 
 <!-- Nav do Menu -->
 <?php include("header.php")?>
 <!-- Fim nav -->
-
 
 <div class="topico centralizar">
           <b class="destaque">Antes e Depois</b>

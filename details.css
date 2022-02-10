@@ -1,0 +1,12 @@
+img {
+    border-radius: 15px;
+}
+.tituloHARM{
+    color : white;
+    font-size: 18px;
+    font-family: Arial;
+}
+.tituloDOU{
+    color: goldenrod;
+    font-size: 20px;
+}

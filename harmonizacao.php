@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Instituto Orofacial Ridere</title>
+    <link rel="stylesheet" href="css/details.css">
     <link rel="stylesheet" href="css/site.css">
     <link rel="shortcut icon" type="imagex/png" href="coroa.ico">
     <meta charset="utf-8">
@@ -13,8 +14,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body style="background-image: url(img/background.png);background-repeat: no-repeat; background-size: 100% 100%;">
-    
-<button onclick="topFunction()" id="myBtn" title="Voltar ao topo">Topo</button>
 
 <!-- Nav do Menu -->
 <?php include("header.php")?>
@@ -27,7 +26,7 @@
           <br>
           <div class="topico">
             <b class="destaque">Harmonização Facial</b>
-            <br><span class="texto">Aqui abaixo você visualiza a lista de procedimentos de Harmonização facial. Clique para saber mais.</span><br><br><br>
+            <br><span class="tituloHARM">Aqui abaixo você visualiza a lista de procedimentos de Harmonização facial. Clique para saber mais.</span><br><br><br>
             <a href="#skinbooster" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Skinbooster</a>
             <br>
             <a href="#peeling" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Peeling Químico</a>
@@ -48,11 +47,11 @@
 
     <!-- SKINBOOSTER-->
     <div class="topico">
-      <div class="centralizar"><span class="titulo">Skinbooster</span></div>
+      <div class="centralizar"><span class="tituloHARM">Skinbooster</span></div>
       <br>
       <img src="img/peeling_.png" class="responsive center" >
       <br><br>
-      <span class="texto">
+      <span class="tituloHARM">
           O Skinbooster é uma hidratação injetável que trata profundamente a pele através do ácido hialurônico na derme.<br>
           Pensando nos efeitos do Skinbooster e como ele atua na pele, podemos destacar os principais benefícios:
           <br><br>
@@ -81,11 +80,11 @@
 
     <!-- PEELING QUÍMICO -->
     <div class="topico">
-      <div class="centralizar"><span class="titulo">Peeling Químico</span></div>
+      <div class="centralizar"><span class="tituloHARM">Peeling Químico</span></div>
       <br>
       <img src="img/peeling_.png" class="responsive center" >
       <br><br>
-      <span class="texto">
+      <span class="tituloHARM">
 <br><br>
 Você já ouviu falar em peeling químico?
 <br><br>
@@ -105,11 +104,11 @@ Temos preços competitivos e ótimas condições de pagamento!
 
     <!-- BIOESTIMULADORES DE COLÁGENO -->
     <div class="topico">
-      <div class="centralizar"><span class="titulo">Bioestimuladores de Colágeno</span></div>
+      <div class="centralizar"><span class="tituloHARM">Bioestimuladores de Colágeno</span></div>
       <br>
       <img src="img/peeling_.png" class="responsive center" >
       <br><br>
-      <span class="texto">
+      <span class="tituloHARM">
 <br><br>
 Vocês já ouviram falar sobre Bioestimuladores de Colágeno?
 <br><br>
@@ -131,11 +130,11 @@ Temos preços competitivos e ótimas condições de pagamento!
 
     <!-- BOTOX -->
     <div class="topico">
-      <div class="centralizar"><span class="titulo">Botox</span></div>
+      <div class="centralizar"><span class="tituloHARM">Botox</span></div>
       <br>
       <img src="img/botox_.png" class="responsive center" >
       <br><br>
-      <span class="texto">
+      <span class="tituloHARM">
 <br><br>
 O botox, também conhecido como toxina botulínica, é uma substância que pode ser utilizada no tratamento de diversas doenças, como microcefalia, paraplegia e espasmos musculares, isso porque é capaz de impedir a contração muscular e atua promovendo a paralisia temporária do músculo, o que ajuda a reduzir os sintomas relacionados com essas situações.
 <br>
@@ -166,11 +165,11 @@ Temos preços competitivos e ótimas condições de pagamento !
 
     <!-- FACETAS -->
     <div class="topico">
-      <div class="centralizar"><span class="titulo">Lentes em resina e porcelana (facetas)</span></div>
+      <div class="centralizar"><span class="tituloHARM">Lentes em resina e porcelana (facetas)</span></div>
       <br>
       <img src="img/facetas_em_resina.png" class="responsive center" >
       <br><br>
-      <span class="texto">
+      <span class="tituloHARM">
 <br><br>
 As lentes de contato dentárias, como são conhecidas popularmente, são as facetas de resina ou de porcelana que podem ser colocadas sobre os dentes pelo dentista para melhorar a harmonia do sorriso, conferindo dentes alinhados, brancos e bem ajustados, com durabilidade de 10 a 15 anos.
 <br>
@@ -200,20 +199,9 @@ Temos preços competitivos e ótimas condições de pagamento!
     </div>
     <hr class="style-seven">
 
-    <br>
-    <div class="centralizar">
-        <span style="color: white; font-family: Arial, Helvetica, sans-serif;">
-            <img src="img/coroa.png">
-            <br>
-            <b>Instituto Orofacial Ridere</b>
-            <br>
-            Rua José Oscar de Abreu Sampaio, 242 - Jardim Anália Franco
-            <br>
-            São Paulo, SP - CEP: 03337-020
-        </span>
-      </div>
-      <script src="js/site.js"></script>
-      <br>
+<!-- FOOTER -->
+<?php include("footer.php")?>
+<!-- -->
 
 </body>
 </html>

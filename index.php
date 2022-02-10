@@ -139,22 +139,10 @@
 <div class="centralizar">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.2730728440415!2d-46.56732028532669!3d-23.558634084684286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5f16a5f7bd55%3A0x9f918824370c86e3!2sInstituto%20Orofacial%20Ridere!5e0!3m2!1spt-BR!2sbr!4v1642705192921!5m2!1spt-BR!2sbr" width="80%" height="260px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
-  
-<br><br><br><br>
 
-<div class="centralizar">
-  <span style="color: white; font-family: Arial, Helvetica, sans-serif;">
-      <img src="img/coroa.png">
-      <br>
-      <b>Instituto Orofacial Ridere</b>
-      <br>
-      Rua José Oscar de Abreu Sampaio, 242 - Jardim Anália Franco
-      <br>
-      São Paulo, SP - CEP: 03337-020
-  </span>
-</div>
-<script src="js/site.js"></script>
-<br>
+<!-- FOOTER -->
+<?php include("footer.php")?>
+<!-- -->
 
 </body>
 </html>
