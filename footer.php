@@ -9,7 +9,8 @@
       Rua José Oscar de Abreu Sampaio, 242 - Jardim Anália Franco
       <br>
       São Paulo, SP - CEP: 03337-020
-  </span>
+  </span><br><br>
+  <img id="qr" src="img/qrcode.png">
 </div>
 <script src="js/site.js"></script>
 <br>

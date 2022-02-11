@@ -1,4 +1,5 @@
 <link rel="shortcut icon" type="imagex/png" href="coroa.ico">
+<link rel="stylesheet" href="css/details.css">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -22,6 +23,8 @@
     <a href="materias.php">MATÉRIAS</a>
     <a href="coworking.php">CO-WORKING</a>
     <a href="contato.php">CONTATO</a>
+    <a href="#">NOTÍCIAS</a>
+    <a href="#">PACIENTES</a>
   </div>
   <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -31,7 +34,7 @@
 
 <div class="centralizar">
   <br><br>
-    <a href="index.php"><img src="img/logo.png" class="responsive" width="50%"></a>
+    <a href="index.php"><img src="img/logo.png" id="logo" class="responsive" width="50%"></a>
   <br><br>            
 </div>
 
@@ -73,19 +76,33 @@
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='depoimentos.php';">Depoimentos</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='materias.php';">Matérias</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='coworking.php';">Co-working</button></div> | 
-  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Contato</button></div> 
+  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Contato</button></div> |
+  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Notícias</button></div> |
+  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Pacientes</button></div> 
 </div>
 
  <div class="container">
   <div class="row">
-    <div class="col-md-9">
-      <b id="titulo">Transformando vidas e realizando sonhos.</b>
+    <div class="col-md-8">
+      <p id="tituloREF">Transformando vidas e realizando sonhos.</p>
     </div>
-    <div class="col-md-3 redes">
+    <div class="col-md-4 redes">
       <a href="mailto:institutoridere@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" id="redes" class="responsive"></a>
       <a href="https://www.instagram.com/institutoridere/" style="color:gold"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  id="redes" class="responsive"></a>
       <a href="https://api.whatsapp.com/send?phone=+5511992691236&text=Olá, em breve responderemos. Nosso horário de atendimento é de segunda a sexta das 09:00 às 19:00 e aos sábados das 09:00 às 15:00. Obrigado." style="color:gold"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" id="redes" class="responsive"></a>
+      <a href="#" class="responsive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" id="redes" class="responsive"></a>
     </div>
   </div>
 </div>
 <br><br><br>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-210657957-1">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-210657957-1');
+</script>

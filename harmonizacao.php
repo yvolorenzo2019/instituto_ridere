@@ -47,7 +47,7 @@
 
     <!-- SKINBOOSTER-->
     <div class="topico">
-      <div class="centralizar"><span class="tituloHARM">Skinbooster</span></div>
+      <div class="centralizar"><span class="destaque">Skinbooster</span></div>
       <br>
       <img src="img/peeling_.png" class="responsive center" >
       <br><br>
@@ -80,7 +80,7 @@
 
     <!-- PEELING QUÍMICO -->
     <div class="topico">
-      <div class="centralizar"><span class="tituloHARM">Peeling Químico</span></div>
+      <div class="centralizar"><span class="destaque">Peeling Químico</span></div>
       <br>
       <img src="img/peeling_.png" class="responsive center" >
       <br><br>
@@ -104,7 +104,7 @@ Temos preços competitivos e ótimas condições de pagamento!
 
     <!-- BIOESTIMULADORES DE COLÁGENO -->
     <div class="topico">
-      <div class="centralizar"><span class="tituloHARM">Bioestimuladores de Colágeno</span></div>
+      <div class="centralizar"><span class="destaque">Bioestimuladores de Colágeno</span></div>
       <br>
       <img src="img/peeling_.png" class="responsive center" >
       <br><br>
@@ -130,7 +130,7 @@ Temos preços competitivos e ótimas condições de pagamento!
 
     <!-- BOTOX -->
     <div class="topico">
-      <div class="centralizar"><span class="tituloHARM">Botox</span></div>
+      <div class="centralizar"><span class="destaque">Botox</span></div>
       <br>
       <img src="img/botox_.png" class="responsive center" >
       <br><br>
@@ -165,7 +165,7 @@ Temos preços competitivos e ótimas condições de pagamento !
 
     <!-- FACETAS -->
     <div class="topico">
-      <div class="centralizar"><span class="tituloHARM">Lentes em resina e porcelana (facetas)</span></div>
+      <div class="centralizar"><span class="destaque">Lentes em resina e porcelana (facetas)</span></div>
       <br>
       <img src="img/facetas_em_resina.png" class="responsive center" >
       <br><br>
