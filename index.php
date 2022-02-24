@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/site.css">
 </head>
-<body style="background-image: url(img/background.png);background-repeat: no-repeat; background-size: 100% 100%;">
+<body style="background-image: url(img/background.png);background-repeat: no-repeat; background-size: 100% 100%; size:100%;">
 
 <!-- Nav do Menu -->
 <?php include("header.php")?>

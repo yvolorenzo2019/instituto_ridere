@@ -50,11 +50,7 @@
   <li>Dentística</li>
   <li>Endodontia</li>
 </ul>
-<br><br>
-Entre em contato através do 
-<a href="https://api.whatsapp.com/send?phone=+5511992691236&text=Olá gostaria de entrar em contato para conhecer a clínica." style="color:gold"><img src="img/whatsapp.png" class="responsive" width="20"> Whatsapp </a> 
-para mais informações.
-
+<br>
 </span>
     </div>
 

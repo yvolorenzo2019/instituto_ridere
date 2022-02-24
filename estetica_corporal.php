@@ -18,6 +18,28 @@
 <!-- Nav do Menu -->
 <?php include("header.php")?>
 <!-- Fim nav -->
+    
+<table border="0" style="border-color: aqua; width: 100%; margin: auto; background-color: #111;">
+      <tr>
+        <td align="center" colspan="2">
+          <br>
+          <div class="topico">
+            <b class="destaque">Estetica Corporal</b>
+            <br><span class="tituloHARM">Aqui abaixo você visualiza a lista de procedimentos de Estetica Corporal. Clique para saber mais.</span><br><br><br>
+            <a href="#drenagem" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Drenagem Linfática Manual</a>
+            <br>
+            <a href="#massagem" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Massagem Relaxante</a>
+            <br>
+            <a href="#modeladora" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Modeladora (Redutora)</a>
+            <br>
+            <a href="#limpeza" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Limpeza de Pele</a>
+            <br>
+          </div>
+        </td>
+        </tr>
+    </table>
+
+
 
     <a id="drenagem"></a>
     <hr class="style-seven">

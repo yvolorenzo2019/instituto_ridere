@@ -14,7 +14,7 @@
 <div class="topnav">
   <a href="index.php" class="active"><img src="img/coroa.png" style="width: 40px;"></a>
   <!-- Navigation links (hidden by default) -->
-  <div id="myLinks" style="background-color: #555;">
+  <div id="myLinks" style="background-color: goldenrod;">
     <a href="harmonizacao.php">HARMONIZAÇÃO FACIAL</a>
     <a href="estetica_corporal.php">ESTÉTICA CORPORAL</a>
     <a href="odontologia.php">ODONTOLOGIA</a>
@@ -23,8 +23,8 @@
     <a href="materias.php">MATÉRIAS</a>
     <a href="coworking.php">CO-WORKING</a>
     <a href="contato.php">CONTATO</a>
-    <a href="#">NOTÍCIAS</a>
-    <a href="#">PACIENTES</a>
+    <a href="contato.php">PACIENTES</a>
+    <a href="modelos.php">MODELOS</a>
   </div>
   <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -37,9 +37,8 @@
     <a href="index.php"><img src="img/logo.png" id="logo" class="responsive" width="50%"></a>
   <br><br>            
 </div>
-
 <!-- MENU -->
-<div class="menu-box">
+<div class="menu-box" style="background-image: linear-gradient(goldenrod, rgb(102, 88, 8));">
   <div class="dropdown">
     <button class="drops" onclick="javascript:location.href='harmonizacao.php';">Harmonização Facial</button> <i class="fa fa-caret-down"></i>
     <div class="dropdown-content">
@@ -71,14 +70,14 @@
       <a href="odontologia.php#dentistica" class="link_menu">Dentística</a>
       <a href="odontologia.php#endodontia" class="link_menu">Endodontia</a>
     </div>
-  </div> | 
+  </div> | <!--  Menu de cima  -->
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='antes_depois.php';">Antes e Depois</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='depoimentos.php';">Depoimentos</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='materias.php';">Matérias</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='coworking.php';">Co-working</button></div> | 
-  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Contato</button></div> |
-  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Notícias</button></div> |
-  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Pacientes</button></div> 
+  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Contato</button></div> |<br>
+  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Pacientes</button></div> | 
+  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='modelos.php';">Modelos</button></div>
 </div>
 
  <div class="container">
@@ -86,11 +85,11 @@
     <div class="col-md-8">
       <p id="tituloREF">Transformando vidas e realizando sonhos.</p>
     </div>
-    <div class="col-md-4 redes">
-      <a href="mailto:institutoridere@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" id="redes" class="responsive"></a>
-      <a href="https://www.instagram.com/institutoridere/" style="color:gold"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  id="redes" class="responsive"></a>
-      <a href="https://api.whatsapp.com/send?phone=+5511992691236&text=Olá, em breve responderemos. Nosso horário de atendimento é de segunda a sexta das 09:00 às 19:00 e aos sábados das 09:00 às 15:00. Obrigado." style="color:gold"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" id="redes" class="responsive"></a>
-      <a href="#" class="responsive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" id="redes" class="responsive"></a>
+    <div class="col-md-4">
+      <a href="mailto:institutoridere@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" id="redes" style="widht:50px; height:50px; margin-top:5%; margin-left:5%;border-radius:0px;margin-left:8%;"></a>
+      <a href="https://www.instagram.com/institutoridere/" style="color:gold"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"  id="redes" style="widht:50px; height:50px; margin-top:5%; margin-left:5%;border-radius:0px;margin-left:8%;" ></a>
+      <a href="https://api.whatsapp.com/send?phone=+5511992691236&text=Olá, em breve responderemos. Nosso horário de atendimento é de segunda a sexta das 09:00 às 19:00 e aos sábados das 09:00 às 15:00. Obrigado." style="color:gold"><img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" id="redes" style="widht:50px; height:50px; margin-top:5%; margin-left:5%;border-radius:0px;margin-left:8%;" ></a>
+      <a href="#" class="responsive"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" id="redes" style="widht:50px; height:50px; margin-top:5%; margin-left:5%;border-radius:0px;margin-left:8%;"></a>
     </div>
   </div>
 </div>

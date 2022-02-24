@@ -197,7 +197,6 @@ Temos preços competitivos e ótimas condições de pagamento!
 
 </span>
     </div>
-    <hr class="style-seven">
 
 <!-- FOOTER -->
 <?php include("footer.php")?>

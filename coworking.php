@@ -54,7 +54,7 @@ As vantagens de fazer coworking no Instituto Ridere são:
 Ficou com vontade de locar o nosso espaço?
 <br><br>
 Entre em contato através do 
-<a href="https://api.whatsapp.com/send?phone=+5511992691236&text=Olá gostaria de entrar em contato para conhecer a clínica." style="color:gold"><img src="img/whatsapp.png" class="responsive" width="20"> Whatsapp </a> 
+<a href="https://api.whatsapp.com/send?phone=+5511992691236&text=Olá, em breve responderemos. Nosso horário de atendimento é de segunda a sexta das 09:00 às 19:00 e aos sábados das 09:00 às 15:00. Obrigado." style="color:gold"><img src="img/whatsapp.png" class="responsive" width="20"> Whatsapp </a> 
 para mais informações.
 
 </span>
