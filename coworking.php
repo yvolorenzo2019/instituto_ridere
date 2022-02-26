@@ -26,6 +26,7 @@
           <br>
             <b class="destaque">Co-working</b>
             <br><br>
+            <img class="responsive banner" src="img/COO.png">
         </td>
         </tr>
     </table>
@@ -56,7 +57,7 @@ Ficou com vontade de locar o nosso espaço?
 Entre em contato através do 
 <a href="https://api.whatsapp.com/send?phone=+5511992691236&text=Olá, em breve responderemos. Nosso horário de atendimento é de segunda a sexta das 09:00 às 19:00 e aos sábados das 09:00 às 15:00. Obrigado." style="color:gold"><img src="img/whatsapp.png" class="responsive" width="20"> Whatsapp </a> 
 para mais informações.
-
+     
 </span>
     </div>
 
@@ -66,3 +67,9 @@ para mais informações.
 
 </body>
 </html>
+
+<style>
+   .banner{
+       width:80%;
+   }
+</style>

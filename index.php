@@ -17,67 +17,69 @@
 <?php include("header.php")?>
 <!-- Fim nav -->
 
-    <table border="0" style="border-color: aqua; width: 95%; margin: auto;">
-        <tr>
-            <td style="width: 50%;" align="center">
-                <img src="img/frente1.png" alt="Instituto Orofacial Ridere" class="responsive">
-            </td>
-            <td style="width: 50%;">
+ <div class="row">
+   <div class="col-md-1">
+   </div>
+   <div class="col-md-5">
+         <img  src="img/frente1.png" alt="Instituto Orofacial Ridere" class="responsive">
+   </div>
 
-                <div id="myCarousel" class="carousel slide" data-ride="carousel" class="responsive">
-                    <!-- Indicators -->
-                    <ol class="carousel-indicators">
-                      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                      <li data-target="#myCarousel" data-slide-to="1"></li>
-                      <li data-target="#myCarousel" data-slide-to="2"></li>
-                      <li data-target="#myCarousel" data-slide-to="3"></li>
-                      <li data-target="#myCarousel" data-slide-to="4"></li>
-                      <li data-target="#myCarousel" data-slide-to="5"></li>
-                    </ol>
-                  
-                    <!-- Wrapper for slides -->
-                    <div class="carousel-inner" style="margin: auto;">
-                      <div class="item active">
-                        <img src="img/produtos1.png" alt="Serviços" class="responsive">
-                      </div>
-                  
-                      <div class="item" style="margin: auto;">
-                        <img src="img/produtos2.png" alt="Serviços" class="responsive">
-                      </div>
+   <div class="col-md-5">
+      
+<div id="myCarousel" class="carousel slide" data-ride="carousel" class="responsive">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+      <li data-target="#myCarousel" data-slide-to="5"></li>
+    </ol>
+  
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner" style="margin: auto;">
+      <div class="item active">
+        <img src="img/produtos1.png" alt="Serviços" class="responsive">
+      </div>
+  
+      <div class="item" style="margin: auto;">
+        <img src="img/produtos2.png" alt="Serviços" class="responsive">
+      </div>
 
-                      <div class="item" style="margin: auto;">
-                        <img src="img/recepcao_1.png" alt="Recepção" class="responsive">
-                      </div>
+      <div class="item" style="margin: auto;">
+        <img src="img/recepcao_1.png" alt="Recepção" class="responsive">
+      </div>
 
-                      <div class="item" style="margin: auto;">
-                        <img src="img/entrada_1.png" alt="Entrada" class="responsive">
-                      </div>
+      <div class="item" style="margin: auto;">
+        <img src="img/entrada_1.png" alt="Entrada" class="responsive">
+      </div>
 
-                      <div class="item" style="margin: auto;">
-                        <img src="img/sala_1.png" alt="Sala 1" class="responsive">
-                      </div>
+      <div class="item" style="margin: auto;">
+        <img src="img/sala_1.png" alt="Sala 1" class="responsive">
+      </div>
 
-                      <div class="item" style="margin: auto;">
-                        <img src="img/sala_2.png" alt="Sala 2" class="responsive">
-                      </div>
-                  
-                    </div>
-                  
-                    <!-- Left and right controls -->
-                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                      <span class="glyphicon glyphicon-chevron-left"></span>
-                      <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                      <span class="glyphicon glyphicon-chevron-right"></span>
-                      <span class="sr-only">Next</span>
-                    </a>
-                  </div>
+      <div class="item" style="margin: auto;">
+        <img src="img/sala_2.png" alt="Sala 2" class="responsive">
+      </div>
+  
+    </div>
+  
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a>
 
-            </td>
-        </tr>
-    </table>
-    <br><br><br><br>
+  </div>
+   </div>
+ </div>
+ 
+    <br><br><br>
 
     <table border="0" style="border-color: aqua; width: 100%; margin: auto; background-color: #111;">
       <tr>

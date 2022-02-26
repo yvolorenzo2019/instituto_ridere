@@ -38,14 +38,13 @@
 <!-- FOOTER -->
 <?php include("footer.php")?>
 <!-- -->
-
 </body>
 </html>
 
 <style>
    .banner{
-       width:50%;
-       margin-left:25%;
+       width:90%;
+       margin-left:5%;
        margin-top:5%;
    }
 </style>

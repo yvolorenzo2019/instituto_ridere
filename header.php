@@ -23,8 +23,7 @@
     <a href="materias.php">MATÉRIAS</a>
     <a href="coworking.php">CO-WORKING</a>
     <a href="contato.php">CONTATO</a>
-    <a href="contato.php">PACIENTES</a>
-    <a href="modelos.php">MODELOS</a>
+    <a href="modelos.php">PACIENTES MODELOS</a>
   </div>
   <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -76,8 +75,7 @@
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='materias.php';">Matérias</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='coworking.php';">Co-working</button></div> | 
   <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Contato</button></div> |<br>
-  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='contato.php';">Pacientes</button></div> | 
-  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='modelos.php';">Modelos</button></div>
+  <div class="dropdown-none"><button class="drops" onclick="javascript:location.href='modelos.php';">Pacientes Modelos</button></div> 
 </div>
 
  <div class="container">

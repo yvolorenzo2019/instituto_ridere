@@ -30,22 +30,22 @@
           <br>
           <div class="topico">
             <b class="destaque">Matérias</b>
-            <br><span class="tituloHARM"></span><br><br><br>
-            <a href="#skinbooster" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Skinbooster</a>
+            <br><span class="tituloHARM"></span><br>
+            <a href="http://www.institutoridere.com.br/preview/pdf/1PAGINA_ridere.pdf" class="subitem"><i class="titulo arrow right_arrow" ></i>&nbsp;&nbsp;Sobre a Inauguração</a><br>
             <br>
-            <a href="#peeling" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Peeling Químico</a>
+            <a href="http://www.institutoridere.com.br/preview/pdf/1P%C3%81GINA_orofacialridere.pdf" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Tratamentos
+faciais para
+você arrasar
+nas festas de
+final de ano.
+Confira!</a>
             <br>
-            <a href="#colageno" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Bioestimuladores de Colágeno</a>
-            <br>
-            <a href="#botox" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Botox</a>
-            <br>
-            <a href="#facetas" class="subitem"><i class="arrow right_arrow"></i>&nbsp;&nbsp;Lentes em resina e porcelana ( facetas )</a>
           </div>
         </td>
         </tr>
     </table>
-    
-
+    <br>
+  
     <br><br><br>
 
   
@@ -55,3 +55,7 @@
 
 </body>
 </html>
+
+<style>
+  .destaque {color:goldenrod;}
+</style>
